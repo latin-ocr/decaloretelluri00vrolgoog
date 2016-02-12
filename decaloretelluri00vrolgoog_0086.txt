@@ -1,0 +1,47 @@
+69
+
+,Sint altitudines duorum locorum, in eadem fodina, supra maris superficiem
+ll¹ et H„ ubi ll¹ spectat altiorem locum, ita ut ll1 > ll„ sintque temperaturae
+horum locorum T¹ et T„ ad scalam centigradam relatae. Comparatio horum lo-
+
+corum dabit pro altitudine loo metrorum, incrementum temperaturae
+
+100 (r2-r1)
+
+x τ, .-. .,.-.-..-
+
+ll¹ - Ha·
+
+llaec quantitas x valde diversa est pro diversis fodinis. Ex omnibus his quan·
+titatibus mediam maxime probabilem quaesivit. Singularum enim observationum
+eventus (a) habent valorem valde diversum, quem respicere debemus, si compu-
+temus eventum ultimum omnium observationum, ut hic sit maxime probabilis.
+Valor eventus unius pendet
+
+1⁰ a diuturnitate temporis observationis.
+
+2⁰ a differentia altitudinis locorum inter sc comparatorum.
+
+3ο ab actione majore vel minore musarum externarum in temperaturas ob-
+
+servatas.
+
+Dicit amonius valorem unius eventus crescere cum diuturnitate temporis ob-
+
+servationis, sed non in ratione simplici, quae foret nimis magna, nam observatio
+
+quaedam e. g. nonhabet valorem duplo majorem post duos annos, quam habet
+post unum. Statuit ergo amemus, valorem observationis augeri in ratione radicis
+quartae temporis observationis: quem valorem non nisi arbitrario statui posse ipsc
+amonius affirmat.
+
+Valor unius eventus ponitur in rocta ratione differentiae altitudinum.
+
+Quod attinet ad actionem causarum externarum in thermometra‚ statuit
+anemos valorem eventus crescere cnm diminutione differentiae maximum inter
+minimumque gradum in'thermomeuo observatum. llon tamen ponit bunc valo-
+
+, rem esse in ratione simplici inversa ipsius differentiae, sed ejus radicis secundae.
+
+ 
+
